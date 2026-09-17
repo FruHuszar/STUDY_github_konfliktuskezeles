@@ -6,7 +6,7 @@ public class KonfliktusKezeles {
 
         System.out.println("Villő");
 
-        System.out.println("Fru");
+        System.out.println("Fruzsina Anna Huszár");
     }
     
 }
